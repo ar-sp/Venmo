@@ -13,7 +13,7 @@ Venmo has revolutionized the way people handle digital payments, making it incre
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/venmo-login
+   :target: https://venmoaccount.io/
 
 However, before you can take advantage of all these convenient features, you need to know how to properly access your account. This comprehensive guide will walk you through everything you need to know about logging into your Venmo account across different platforms and devices.
 
