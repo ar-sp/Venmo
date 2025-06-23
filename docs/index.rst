@@ -43,7 +43,7 @@ To get started with your Venmo sign in process, you'll first need to complete th
 
 **Web Access**
 
-You can also access your Venmo login through a web browser by visiting `https://www.venmo.com`, though the mobile app offers the full range of features.
+You can also access your Venmo login through a web browser by visiting `official website`, though the mobile app offers the full range of features.
 
 How to Create Your Venmo Account
 ================================
@@ -74,7 +74,7 @@ Once you have the app installed and an account created, here's how to access you
 
 **Web Browser Login**
 
-- Go to `https://www.venmo.com`
+- Go to official website
 - Click "Sign In" in the top right
 - Enter your login credentials:
   - Email or phone number
